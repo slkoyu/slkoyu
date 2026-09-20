@@ -18,4 +18,4 @@
 [ATABOOK](https://slkoyu.atabook.org/)     ㅤㅤ      ㅤㅤ [RENTRY](https://rentry.co/f00lsgold)     ㅤㅤ      ㅤㅤ [GUNS.LOL](https://guns.lol/louzerz) ㅤ
 
 
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ti23gqydwoquypxd9xhohr7rf&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=b71f3d&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
