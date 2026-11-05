@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=l0uscent&label=⠀⠀⠀✶⠀⠀⠀&style=plastic&color=bf2c45)
 
-<img src="https://i.pinimg.com/736x/1b/2a/89/1b2a89c02104405e9088798980ddaa2a.jpg" width="350">
+<img src="https://i.pinimg.com/originals/86/5f/0f/865f0f09eb7a65c5a893bba3f20cd83f.gif" width="350">
 
 <div id="header" align="center">
 
